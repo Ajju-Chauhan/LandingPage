@@ -1,0 +1,59 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  padding: 100px;
+  color: white;
+  width: 50%;
+
+  text-align: center;
+}
+.Imgdiv {
+  width: 50%;
+  height: 500px;
+  padding: 50px;
+}
+.img {
+  height: 350px;
+  align-items: center;
+}
+.mailBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 
+    43px;
+    background-color: rgb(58, 57, 56);
+    height: 74px;
+    
+    width: 438ppx;
+
+    
+}
+.mailtext{
+    
+    height :26px;
+    margin-left: 10px;
+
+}
+.maillogo{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: x-large;
+    align-items: center;
+    
+}
+.mailbtn{
+    display: flex;
+    justify-content: center;
+    width:137px;
+    border-radius: 43px;
+    height: 62px;
+    background-color: #E3B748;
+    color: black;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 10px;
+
+}

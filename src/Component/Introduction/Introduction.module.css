@@ -1,0 +1,22 @@
+
+.Maindiv{
+    width :1132px;
+    height:174px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.text{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 15px;
+}
+.divright{
+    width: 50%;
+    margin: 150px;
+}
